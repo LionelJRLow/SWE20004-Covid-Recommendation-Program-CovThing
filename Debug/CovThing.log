@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Lionel Jr\Documents\SWE20004 LAB2 LOW\CovThing\patient.h(192,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lionel Jr\Documents\SWE20004 LAB2 LOW\CovThing\patient.h(242,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lionel Jr\Documents\SWE20004 LAB2 LOW\CovThing\patient.h(39): warning C4715: 'patient::testPatient': not all control paths return a value
+  CovThing.vcxproj -> C:\Users\Lionel Jr\Documents\SWE20004 LAB2 LOW\CovThing\Debug\CovThing.exe
