@@ -32,7 +32,8 @@ int main() {
 		break;
 
 	case 4:
-
+		hr.updateHighRisk();
+			
 		break;
 
 	case 5:
@@ -51,6 +52,5 @@ int main() {
 		break;
 	}
 	return 0;
-	//hr.updateHighRisk();
 	//s.Exit();
 }
